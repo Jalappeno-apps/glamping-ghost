@@ -1,0 +1,8 @@
+{"name":"Log","hostname":"localhost","pid":12655,"level":30,"msg":"Ghost is running in production...","time":"2020-12-30T17:44:21.961Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12655,"level":30,"msg":"Your site is now available on http://kimuraglamping.pl/blog/","time":"2020-12-30T17:44:21.992Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12655,"level":30,"msg":"Ctrl+C to shut down","time":"2020-12-30T17:44:21.994Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12655,"level":30,"msg":"Ghost boot 6.619s","time":"2020-12-30T17:44:22.024Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12655,"level":30,"msg":"Bootstrap client was closed.","time":"2020-12-30T17:44:22.027Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12655,"level":40,"msg":"Ghost is shutting down","time":"2020-12-30T17:47:01.368Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12655,"level":40,"msg":"Ghost is shutting down","time":"2020-12-30T17:47:01.371Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12655,"level":40,"msg":"Ghost has shut down","time":"2020-12-30T17:47:01.376Z","v":0}

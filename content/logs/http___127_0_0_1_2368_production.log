@@ -1,0 +1,9 @@
+{"name":"Log","hostname":"localhost","pid":12941,"level":30,"msg":"Ghost is running in production...","time":"2020-12-30T17:47:08.756Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12941,"level":30,"msg":"Your site is now available on http://127.0.0.1:2368/","time":"2020-12-30T17:47:08.786Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12941,"level":30,"msg":"Ctrl+C to shut down","time":"2020-12-30T17:47:08.787Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12941,"level":30,"msg":"Ghost boot 6.521s","time":"2020-12-30T17:47:08.808Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12941,"level":30,"msg":"Bootstrap client was closed.","time":"2020-12-30T17:47:08.814Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12941,"level":30,"req":{"meta":{"requestId":"ac053e69-79de-48d1-ade4-48a03712067c","userId":null},"url":"/","method":"GET","originalUrl":"/","params":{},"headers":{"host":"127.0.0.1:2368","user-agent":"curl/7.58.0","accept":"*/*"},"query":{}},"res":{"_headers":{"x-powered-by":"Express","cache-control":"public, max-age=0","content-type":"text/html; charset=utf-8","content-length":"29525","etag":"W/\"7355-JvjmdjZR72PFVbwgKGUlnsGcVEA\"","vary":"Accept-Encoding"},"statusCode":200,"responseTime":"741ms"},"msg":"","time":"2020-12-30T17:47:31.262Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12941,"level":40,"msg":"Ghost is shutting down","time":"2021-01-03T12:01:41.347Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12941,"level":40,"msg":"Ghost is shutting down","time":"2021-01-03T12:01:41.439Z","v":0}
+{"name":"Log","hostname":"localhost","pid":12941,"level":40,"msg":"Ghost has shut down","time":"2021-01-03T12:01:41.563Z","v":0}
